@@ -6,7 +6,7 @@
 ### Favourite
 - ✍️ Editor - [kakoune](https://kakoune.org)
 - 💻️ Language - [go](https://golang.org)
-- 👨‍💻️ Terminal - [tilix](https://github.com/gnunn1/tilix)
+- 👨‍💻️ Terminal - [tilix](https://gnunn1.github.io/tilix-web/)
 
 ### Social
 - [Twitter](https://twitter.com/girishk_umar)
