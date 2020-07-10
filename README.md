@@ -1,4 +1,4 @@
-### Hello. I'm Girish
+## Hello. I'm Girish
 - 🌱 I’m currently learning Rust
 - 💬 Ask me about vim, go or universe 😛️
 - 📫 How to reach me: zkmrgirish@gmail.com
