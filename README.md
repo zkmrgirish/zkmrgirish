@@ -3,7 +3,7 @@
 - 💬 Ask me about vim, go or universe 😛️
 - 📫 How to reach me: zkmrgirish@gmail.com
 
-### Favorite
+### Favourite
 - ✍️ Editor - [kakoune](https://kakoune.org)
 - 💻️ Language - [go](https://golang.org)
 - 👨‍💻️ Terminal - [tilix](https://github.com/gnunn1/tilix)
